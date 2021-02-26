@@ -4,16 +4,16 @@ An average company loses anywhere between 1% and 2.5% of their total revenue on 
 
 Datasets - https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 Here's a sample of the dataset:
-.Jobinvolvement
-.Education
-.JobSatisfaction
-.PerformanceRating
-.RelationshipSatisfaction
-.WorkLifwBalnce
+. Jobinvolvement
+. Education
+. JobSatisfaction
+. PerformanceRating
+. RelationshipSatisfaction
+. WorkLifeBalnce
 
-classification model
+#classification model
 1.LOGISTIC REGRESSION CLASSIFIER
-2. RANDOM FOREST CLASSIFIERS
+2.RANDOM FOREST CLASSIFIERS
 
-DEEP LEARNING MODEL
+#DEEP LEARNING MODEL
 ARTIFICIAL NEURAL NETWORKS
