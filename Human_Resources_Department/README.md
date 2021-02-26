@@ -11,9 +11,9 @@ Here's a sample of the dataset:
 .RelationshipSatisfaction
 .WorkLifwBalnce
 
-#classification model
+classification model
 1.LOGISTIC REGRESSION CLASSIFIER
 2. RANDOM FOREST CLASSIFIERS
 
-#DEEP LEARNING MODEL
+DEEP LEARNING MODEL
 ARTIFICIAL NEURAL NETWORKS
